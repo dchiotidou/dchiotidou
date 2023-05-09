@@ -1,4 +1,4 @@
- Hi, I’m @dchiotidou, 
+Hi, I’m @dchiotidou, 
 
 🌱I'm currently learning C#
 
