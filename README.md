@@ -1,8 +1,6 @@
  Hi, I’m @dchiotidou, 
- 
-👀 I’m particularly interested in Web services
 
-🌱 And I'm currently learning C#
+🌱I'm currently learning C#
 
 📫Reach me:  d.chiotidou[at]gmail.com
 
