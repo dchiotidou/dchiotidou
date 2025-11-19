@@ -1,6 +1,6 @@
 Hi, I’m @dchiotidou, 
 
-🌱I'm currently learning C#
+🌱I'm currently working with python 
 
 📫Reach me:  d.chiotidou[at]gmail.com
 
